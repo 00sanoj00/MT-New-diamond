@@ -1,0 +1,26 @@
+D:\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.exe.config
+D:\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.exe
+D:\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.pdb
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.csprojResolveAssemblyReference.cache
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT_New_diamond.Form1.resources
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT_New_diamond.Properties.Resources.resources
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.csproj.GenerateResource.Cache
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.exe
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.pdb
+D:\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.exe.manifest
+D:\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.application
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.exe.manifest
+D:\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.application
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.exe.config
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.exe
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.pdb
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.exe.manifest
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.application
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.exe
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\bin\Debug\MT New diamond.pdb
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.csprojResolveAssemblyReference.cache
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT_New_diamond.Form1.resources
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT_New_diamond.Properties.Resources.resources
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.csproj.GenerateResource.Cache
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.exe.manifest
+G:\D\Visual Studio Development\MT New diamond\MT New diamond\obj\Debug\MT New diamond.application

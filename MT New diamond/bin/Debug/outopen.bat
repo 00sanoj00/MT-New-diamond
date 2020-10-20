@@ -1,0 +1,1 @@
+start %windir%\explorer.exe "%CD%\out\"

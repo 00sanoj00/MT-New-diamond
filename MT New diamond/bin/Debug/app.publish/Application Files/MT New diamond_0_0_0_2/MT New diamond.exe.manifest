@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MT New diamond.exe" version="0.0.0.2" publicKeyToken="9b6bb9f6a49fad19" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="boat_icon-icons.com_51225.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MT New diamond" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MT New diamond.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MT New diamond.exe" size="544736">
+      <assemblyIdentity name="MT New diamond" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dgP96n8gApOoU4pw0PxuFBqxGjGM0/G0gV1GlS7kgZM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="boat_icon-icons.com_51225.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ne0LDPc2r3rXtY9wZINOlU0kacgQ56r90Me8wKadrgc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MT New diamond.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-NUQH5G5\sanoj" issuerKeyHash="2a7486471487125fd1a1ec47a71af145006c348c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6YxMO5A+1gq7AG5srmWWVhzIPsGO3XzGxoC4z9GUefw=</DigestValue></Reference></SignedInfo><SignatureValue>DU0Zgk21xi9Yx5z8TRfSv4clmjxSQqYUG1iXyVOCuZ4o33ngEZB/2tWKgCZQIKipTj31IMBtMBztEBNnkVzE9ZvS2RVeAun458qxKcb39NiKJY3RiRr5Idqt7IcoabMJkeB5PYypMJ7pbIqO8wNxdqbkx8viufTOPddFoQR6ODs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yaysyuO2hbPb7NLbqD+Dqx1S7CWIGVxKeZO8uX+UlqtUv2hlo6aB/Lyurq8ShAJUfof4/DYKAiKOMfwVgWNKHb9rUvMwLjCFAGO4Ut7g2w2RjvvAlkcErg8++Twmrd36eFNp5mlLD92FtWqIuEECucxHb8lX7wZ9BIvocxZwev0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fc7994d1cfb880c6c67cdd8ec13ec81c569665ae6c6e00bb0ad63e903b4c8ce9" Description="" Url=""><as:assemblyIdentity name="MT New diamond.exe" version="0.0.0.2" publicKeyToken="9b6bb9f6a49fad19" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-NUQH5G5\sanoj</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>d2qDXZTN2y7FVjcRm8lrH8Z3hB2HfOYM8aCgfuQ2oW4=</DigestValue></Reference></SignedInfo><SignatureValue>TBsusaxE7UMC3vOLDdsekYnqSG/tkOPx5My9V84ZW0A/B8DGRGPMZ5ocMm2fmljB8RzNVf6/3BnPDmDcNtZQsJyfPxbdSzCKvBux8kMnHYJjoAkKk1PZtqH/MdfThJ3tSDdAbmOzT1/aKqByO9IGFTEe/G35J2Wl+FSgxQcHN5c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yaysyuO2hbPb7NLbqD+Dqx1S7CWIGVxKeZO8uX+UlqtUv2hlo6aB/Lyurq8ShAJUfof4/DYKAiKOMfwVgWNKHb9rUvMwLjCFAGO4Ut7g2w2RjvvAlkcErg8++Twmrd36eFNp5mlLD92FtWqIuEECucxHb8lX7wZ9BIvocxZwev0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQc5T5sRUsaoZK1ysH5oh+7jANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE4AVQBRAEgANQBHADUAXABzAGEAbgBvAGowHhcNMjAwOTExMTcwMjQ4WhcNMjEwOTExMjMwMjQ4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE4AVQBRAEgANQBHADUAXABzAGEAbgBvAGowgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMmsrMrjtoWz2+zS26g/g6sdUuwliBlcSnmTvLl/lJarVL9oZaOmgfy8rq6vEoQCVH6H+Pw2CgIijjH8FYFjSh2/a1LzMC4whQBjuFLe4NsNkY77wJZHBK4PPvk8Jq3d+nhTaeZpSw/dhbVqiLhBArnMR2/JV+8GfQSL6HMWcHr9AgMBAAEwDQYJKoZIhvcNAQELBQADgYEASqYpkS3e//hFAZVTGwlwaPNfq3AiIdCvkoADlrP1/EiCCXP53s0hlVObqQpxlhLLQS7qnu1LK0dDEDddlTOdBEmnVu6Ffv9EyibmY+xAm96/JT/kSX8cuTHkzGECMyoQdwvmatPNtH5yHHRVmYdwORFALaHKKZqeJwZWXYzvPKM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
