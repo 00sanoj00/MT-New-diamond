@@ -19,4 +19,6 @@
 
 #Screen Shot
 
+![](https://github.com/00sanoj00/MT-New-diamond/blob/main/Screen/Capture.PNG?raw=true)
+
 ###End
